@@ -1,5 +1,16 @@
-** Mac OS X
-    -  Emacs
+** Dev Tools
+  - Chrome
+  - Anaconda
+  - Pycharm
+  - MongoDb
+  - Postman
+  - Mongobooster
+  - Git
+  - meld
+  - Octave
+  - R Studio
+  - git-el (ubuntu)
+  - Emacs
       -   intero
       -   xcscope             
       -   skewer-mode         
@@ -18,6 +29,8 @@
       -   ac-html 
       -   tern
       -   tern-complete?
+
+** Mac OS X
     -  XCode
     - HtTrack
     - Xmind
@@ -64,6 +77,8 @@
     - SSHFS
 
 ** Linux
+    -  glances
+    -  ncdu
     -  GCC/G++
     -  CMAKE
     -  Qt
